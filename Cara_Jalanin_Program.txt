@@ -1,0 +1,7 @@
+//Cara Nyalain Streamlit Run Image Web\\
+
+Streamlit run streamlit_app.py
+
+==Cara Nyalain Deteksi Mask Video==
+
+Python detect_mask_video.py
