@@ -9,3 +9,5 @@ scipy
 scikit-learn
 pillow
 streamlit
+av
+pip
